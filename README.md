@@ -1,4 +1,8 @@
+
 # PHP Assessments
+
+## How to file your assignement
+Please fork this repository on your github account when you are ready to start on your assignement. Create a folder with your github accountname like I did and create your answers in there. When you are finished please submit a pullrequest.
 
 ## 1. File Owners
 Implement a groupByOwners function that:
@@ -29,7 +33,7 @@ var_dump($fileOwners->groupByOwners($files));
 ```
 
 
-## 2. PalindromePHP STRINGS PUBLIC
+## 2. Palindrome
 A palindrome is a word that reads the same backward or forward.
 
 Write a function that checks if a given word is a palindrome. Character case should be ignored.
