@@ -4,6 +4,8 @@
 ## How to file your assignement
 Please fork this repository on your github account when you are ready to start on your assignement. Create a folder with your github accountname like I did and create your answers in there. When you are finished please submit a pullrequest.
 
+Please submit unit tests with your assignments to prove they are doing what they should do.
+
 ## 1. File Owners
 Implement a groupByOwners function that:
 
