@@ -49,7 +49,8 @@ class Palindrome
 $palindrome = new Palindrome;
 echo $palindrome->isPalindrome('Deleveled');
 ```
-##3. Thesaurus
+
+## 3. Thesaurus
 
 A thesaurus contains words and synonyms for each word. Below is an example of a data structure that defines a thesaurus:
 
