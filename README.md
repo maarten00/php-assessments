@@ -18,7 +18,9 @@ For example, for associative array:
     "Code.py" => "Stan", 
     "Output.txt" => "Randy"
 ]
-``` the groupByOwners function should return: 
+``` 
+the groupByOwners function should return: 
+
 ```
 [
     "Randy" => [
