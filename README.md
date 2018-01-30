@@ -33,6 +33,7 @@ the groupByOwners function should return:
 ]
 ```
 
+Start with:
 
 ```
 <?php
