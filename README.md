@@ -24,12 +24,11 @@ class FileOwners
     }
 }
 
-$files = array
-(
+$files = [
     "Input.txt" => "Randy",
     "Code.py" => "Stan",
     "Output.txt" => "Randy"
-);
+];
 $fileOwners = new FileOwners;
 var_dump($fileOwners->groupByOwners($files));
 ```
