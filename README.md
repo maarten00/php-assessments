@@ -2,7 +2,7 @@
 # PHP Assessments
 
 ## How to submit your assignement
-Please fork this repository on your github account when you are ready to start on your assignement. Create a folder with your github accountname like I did and create your answers in there. When you are finished please submit a pullrequest.
+Please fork this repository on your github account when you are ready to start on your assignement. Create a folder with your github accountname, like I did, and create your classes in there. When you are finished please submit a pull request.
 
 Please submit unit tests with your assignments to prove they are doing what they should do.
 
